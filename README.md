@@ -1,7 +1,7 @@
-<div style="font-size: 35px;font-weight: bold;text-align: center;">Create React Component</div>
-<div style="font-size: 20px;text-align: center;">A blazing-fast CLI to create React components 🔥</div>
+<center><h1>Create React Component</h1></center>
+<center>A blazing-fast CLI to create React components 🔥</center>
 
-<div style="font-size: 25px;font-weight: bold;text-align: center;margin: 32px 0;">Installing</div>
+## Installation
 
 To install run this with `npm`:
 
@@ -15,7 +15,7 @@ or this with `yarn`:
 yarn add global start-react-component
 ```
 
-<div style="font-size: 25px;font-weight: bold;text-align: center;margin: 32px 0;">Usage</div>
+## Usage
 
 To use this CLI you have two possible syntaxes:
 
@@ -25,7 +25,7 @@ start-react-component [cmd]
 src [cmd]
 ```
 
-<div style="font-size: 25px;font-weight: bold;text-align: center;margin: 32px 0;">Commands</div>
+## Commands
 
 ### Initialize
 
@@ -91,7 +91,7 @@ To create a new Component run the following and answer the questions:
 
 This will generate an `index.js` file, a `styles.(css|scss|js)` file and a `query.js` file if requested.
 
-<div style="font-size: 25px;font-weight: bold;text-align: center;margin: 32px 0;">Future Plans</div>
+## Future Plans
 
 - Language Flavors:
   - Add TypeScript support
