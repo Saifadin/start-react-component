@@ -1,0 +1,28 @@
+{
+  "name": "start-react-component",
+  "version": "0.0.2",
+  "description": "CLI to create React components quickly",
+  "author": "Osamah Aldoaiss",
+  "keywords": [
+    "CLI",
+    "React",
+    "create",
+    "components"
+  ],
+  "license": "MIT",
+  "main": "src.js",
+  "preferGlobal": true,
+  "bin": {
+    "src": "./src.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "commander": "^2.19.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1",
+    "lodash": "^4.17.11",
+    "path": "^0.12.7",
+    "rc": "^1.2.8"
+  }
+}
