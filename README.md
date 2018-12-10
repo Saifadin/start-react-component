@@ -1,5 +1,6 @@
-<center><h1>Create React Component</h1></center>
-<center>A blazing-fast CLI to create React components 🔥</center>
+# Create React Component
+
+A blazing-fast CLI to create React components 🔥
 
 ## Installation
 
