@@ -2,6 +2,8 @@
 
 A blazing-fast CLI to create React components 🔥
 
+[![npm version](https://badge.fury.io/js/start-react-component.svg)](https://badge.fury.io/js/start-react-component) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 ## Installation
 
 To install run this with `npm`:
