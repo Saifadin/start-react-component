@@ -15,7 +15,7 @@ npm install --global start-react-components
 or this with `yarn`:
 
 ```
-yarn add global start-react-component
+yarn global add start-react-component
 ```
 
 ## Usage
